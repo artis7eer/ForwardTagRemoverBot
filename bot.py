@@ -3,19 +3,19 @@ import os
 
 #Bot Token
 #Needed To Interact With Bot
-START_TEXT=os.environ.get("StartMsg","Hi I am A Forward Tag remover Bot \n Find My Source On Here {}")
-HELP_TEXT=os.environ.get("HelpMsg","Forward Me A File And I Will Remove The Files  \n Tag Find My Source On Here {}")
-token=os.environ.get("BOT_TOKEN",None)
 source="https://github.com/Artis7eeR/My-forward-Tag-Remover-Bot/bot.py"
+START_TEXT=os.environ.get("StartMsg","Hi I am A Forward Tag remover Bot \n Find My Source On Here {}".format(source))
+HELP_TEXT=os.environ.get("HelpMsg","Forward Me A File And I Will Remove The Files  \n Tag Find My Source On Here {}".format(source))
+token=os.environ.get("BOT_TOKEN",None)
 
 
 #Start Message
 def start_text(u,c):
-	u.message.reply_text(START_TEXT.format(source))
+	u.message.reply_text(START_TEXT)
 
 #Help Message
 def help_text(u,c):
-	u.message.reply_text(HELP_TEXT.format(source))
+	u.message.reply_text(HELP_TEXT)
 
 #Send Document From User
 def frwrd_file(u,c):

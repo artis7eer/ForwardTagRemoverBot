@@ -1,20 +1,21 @@
 from telegram.ext import Filters,Updater,MessageHandler,CommandHandler
 import os
 
-
 #Bot Token
 #Needed To Interact With Bot
-START_TEXT=os.environ.get("StartMsg",None)
-HELP_TEXT=os.environ.get("HelpMsg",None)
+START_TEXT=os.environ.get("StartMsg","Hi I am A Forward Tag remover Bot \n Find My Source On Here {}")
+HELP_TEXT=os.environ.get("HelpMsg","Forward Me A File And I Will Remove The Files  \n Tag Find My Source On Here {}")
 token=os.environ.get("BOT_TOKEN",None)
+source="https://github.com/Artis7eeR/My-forward-Tag-Remover-Bot/bot.py"
+
 
 #Start Message
 def start_text(u,c):
-	u.message.reply_text(START_TEXT)
+	u.message.reply_text(START_TEXT.format(source))
 
 #Help Message
 def help_text(u,c):
-	u.message.reply_text(HELP_TEXT)
+	u.message.reply_text(HELP_TEXT.format(source))
 
 #Send Document From User
 def frwrd_file(u,c):

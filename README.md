@@ -8,3 +8,6 @@
 
 <h2>Live Version Of Bot:</h2><br>
  <b><a href="https://telegram.dog/Anonforwabot">@AnonForwaBot</a></b>
+
+<h2>Telegram</h2><br>
+<b>Join Us on <a href="https://telegram.dog/TeamCyphers">Telegram</a></b>

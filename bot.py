@@ -3,7 +3,7 @@ import os
 
 #Bot Token
 #Needed To Interact With Bot
-source="https://github.com/Artis7eeR/My-forward-Tag-Remover-Bot"
+source="https://github.com/Artis7eeR/forward-Tag-Remover-Bot"
 
 START_TEXT=os.environ.get("StartMsg",f"Hi I am A Forward Tag remover Bot\nSource Code: {source}")
 HELP_TEXT=os.environ.get("HelpMsg",f"Forward Me A File Video Anything and I will Remove The Forward Tag\nSource Code: {source}")

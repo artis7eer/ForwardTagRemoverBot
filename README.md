@@ -1,4 +1,4 @@
-<h4> Forward Tag Remover Bot</h4>
+<h1> Forward Tag Remover Bot</h1>
 
 <b>Variables:</b><br>
   <b>BOT_TOKEN: Get This Value From <a href="https://telegram.dog/botfather">@Botfather</a></b>

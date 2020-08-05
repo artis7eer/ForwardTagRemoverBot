@@ -9,7 +9,7 @@
 <b>Live Version Of Bot:</b><br>
  <b><a href="https://telegram.dog/Anonforwabot">@AnonForwaBot</a></b>
 
-<h3>Very Easy Way(No coding)</h3>
+<h3>Very Easy Way(No Coding)</h3>
 <a href="https://heroku.com/deploy?template=https://github.com/Artis7eeR/forward-Tag-Remover-Bot">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>

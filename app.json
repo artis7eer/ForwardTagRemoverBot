@@ -1,18 +1,23 @@
-{ "name": "Movie Finder Bot", 
- "description": "A Bot To Find Movies",
+{ "name": "Forward Tag Remover Bot", 
+ "description": "A Forward Tag Remover Bot",
  "repository": "https://github.com/Artis7eeR/forward-tag-remover-bot",
  "logo": "https://raw.githubusercontent.com/Danielabraham7/movie_finder_bot/master/IMG_20200715_220959_491.jpg",
  "keywords": [ "bot", "telegram", "Daniel Abraham", "Dan", "TeamCyphers" ],
+ "success_url": "https://telegram.dog/Anonforwabot",
  "env": {
  "BOT_TOKEN": 
 {"description":"Get This Value from https://telegram.dog/BotFather",
  "value": ""},
  "START_TEXT":
 {"description": "Enter A Custom Start Message Leave Blank For Default", 
- "value": ""},
+ "value": "",
+ "required":false
+ },
  "HELP_TEXT":
 {"description": "Enter A Custom Help Message Leave Blank For Default", 
- "value": ""}
+ "value": "",
+  "required":false
+ }
 },
  "buildpacks":
  [{ "url": "heroku/python" } ]

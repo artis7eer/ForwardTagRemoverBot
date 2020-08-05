@@ -9,16 +9,11 @@
  "value": ""},
  "START_TEXT":
 {"description": "Enter A Custom Start Message Leave Blank For Default", 
- "value": "Hi I am A Forward Tag Remover Bot 
-\n You Can Find My Source Code Here: https://github.com/Artis7eeR/forward-tag-remover-bot 
-\n Say Thanks To My Creator: @Daniel_Abraham"},
-
+ "value": ""},
  "HELP_TEXT":
 {"description": "Enter A Custom Help Message Leave Blank For Default", 
- "value": "Forward Me A File,Image,Audio,Media Anything and I will Remove The Source From it"}
+ "value": ""}
 },
  "buildpacks":
- [ 
-   { "url": "heroku/python" } 
- ]
+ [{ "url": "heroku/python" } ]
  }

@@ -10,12 +10,12 @@
  "value": ""},
  "START_TEXT":
 {"description": "Enter A Custom Start Message Leave Blank For Default", 
- "value": "",
+ "value": "Hi I am A Telegram Bot Send /help to know what I Can Do Source Code:https://github.com/Artis7eeR/forward-Tag-Remover-Bot",
  "required":false
  },
  "HELP_TEXT":
 {"description": "Enter A Custom Help Message Leave Blank For Default", 
- "value": "",
+ "value": "Forward A File,Video,Image,Post,etc I will Remove The File Source And Send Back You File if Any Bugs Found Report it @TeamCyphers",
   "required":false
  }
 },

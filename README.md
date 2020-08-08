@@ -14,5 +14,11 @@
 <h3>Easy Way (Coding)</h3>
   <b><a href="https://youtu.be/swg6un2N4Fk">How To Deploy?</a></b><br>
 
-<h4>Telegram</h4><br>
+<b>Telegram</b><br>
 <b>Join Us on <a href="https://telegram.dog/TeamCyphers">Telegram</a></b>
+
+<b>Known Bugs🐞🐞</b><br>
+<b>-You Cant Add Caption To Audio<br>
+   -But You Can Add Caption To Voice<br>
+  (Both Are Not Same in Telegram)
+</b>

@@ -9,10 +9,10 @@ def set_caption(u,c):
   elif "video" in file_type:
     u.message.reply_video(u.message.reply_to_message.video.file_id,
     caption=file_caption)
-  elif "audio" in file_type:
+  elif '"audio"' in file_type:
     u.message.reply_audio(u.message.reply_to_message.audio.file_id,
     caption=file_caption)
-  elif "voice" in file_type:
+  elif '"voice"' in file_type:
     u.message.reply_voice(u.message.reply_to_message.voice.file_id,
     caption=file_caption)
   elif "photo" in file_type:

@@ -1,7 +1,7 @@
 #Reply to media file or Document
 def set_caption(u,c):
-  if u.message.reply_to_message is not None:
-   file_caption= u.message.text
+ if u.message.reply_to_message is not None:
+  file_caption= u.message.text
   file_type=f"{u.message.reply_to_message}"
   if "document" in file_type:
    u.message.reply_document(u.message.reply_to_message.document.file_id,
@@ -18,5 +18,5 @@ def set_caption(u,c):
   elif "photo" in file_type:
     u.message.reply_photo(u.message.reply_to_message.photo[-1].file_id,
     caption=file_caption)
-  else:
+ else:
   	u.message.reply_text(u.message.text)

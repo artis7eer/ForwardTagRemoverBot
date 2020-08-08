@@ -2,9 +2,6 @@
 
 <b>Variables:</b><br>
   <b>BOT_TOKEN: Get This Value From <a href="https://telegram.dog/botfather">@Botfather</a></b>
-  <br><b>START_TEXT:Type Any Custom Start Message<i> Leave Blank For Default Message</i></b><br>
- <b>HELP_TEXT:Type Any Custom Help Message  <i>Leave Blank For Default Message</i> </b>
-
 
 <b>Live Version Of Bot:</b><br>
  <b><a href="https://telegram.dog/Anonforwabot">@AnonForwaBot</a></b>

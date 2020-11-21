@@ -14,6 +14,7 @@
 #along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 from telegram import InlineKeyboardButton, InlineKeyboardMarkup,ParseMode
+from config.Config import SOURCE,START_TEXT,HELP_TEXT
 
 source="https://github.com/Artis7eeR/ForwardTagRemoverBot"
 START_TEXT="Hi [{}](tg://user?id={})\nI am A Forward Tag remover Bot.Send /help To Know What I Can Do \n ©Artis7eeR"

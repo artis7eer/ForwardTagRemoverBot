@@ -32,9 +32,15 @@ reply_markup = InlineKeyboardMarkup(keyboard)
 
 #Send Start Message
 def startMessage(update,context):
- update.message.reply_text(START_TEXT.format(update.message.from_user.full_name,update.message.chat.id),reply_markup=reply_markup,
+ try:
+  update.message.reply_text(START_TEXT.format(update.message.from_user.full_name,update.message.chat.id),reply_markup=reply_markup,
 parse_mode=ParseMode.MARKDOWN)
+ except Exception as e:
+ 	update.message.reply_text(e)
 
 #Help Message
 def helpMessage(update,context):
-  update.message.reply_text(HELP_TEXT,reply_markup=reply_markup,parse_mode=ParseMode.MARKDOWN)
+ try:
+   update.message.reply_text(HELP_TEXT,reply_markup=reply_markup,parse_mode=ParseMode.MARKDOWN)
+  except Exception as e:
+  	update.message.reply_text(e)

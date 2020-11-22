@@ -85,6 +85,7 @@ qzl5kjhxrw73rcvr6ska3wzksu2vqsa20s4nt0ty8m
 ## Bugs 🐞🐞
 
 [![chatroom icon](https://patrolavia.github.io/telegram-badge/chat.png)](https://telegram.dog/TeamCyphers)
+[![GitHub issues](https://img.shields.io/github/issues/Artis7eeR/ForwardTagRemoverBot.svg)](https://github.com/Artis7eeR/ForwardTagRemoverBot/issues/)
 
 ### Contributions are Invited 🙂
 

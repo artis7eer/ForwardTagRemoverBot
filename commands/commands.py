@@ -14,7 +14,7 @@
 #along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 from telegram import InlineKeyboardButton, InlineKeyboardMarkup,ParseMode
-from config.Config import SOURCE,START_TEXT,HELP_TEXT
+from config import Config
 
 #Inline Keyboard Button
 keyboard = [

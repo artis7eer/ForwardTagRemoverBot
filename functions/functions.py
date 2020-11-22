@@ -16,7 +16,7 @@
 #Function to send video
 def sendMedia(update,context):
  try:
-  u.message.reply_video(u.message.video.file_id)
+  update.message.reply_video(update.message.video.file_id)
  except Exception as e:
  	update.message.reply_text(e)
  

@@ -1,8 +1,8 @@
-{ "name": "Forward Tag Remover Bot", 
- "description": "A Forward Tag Remover Bot",
- "repository": "https://github.com/Artis7eeR/forward-tag-remover-bot",
- "logo": "https://raw.githubusercontent.com/Danielabraham7/movie_finder_bot/master/IMG_20200715_220959_491.jpg",
- "keywords": [ "bot", "telegram", "Daniel Abraham", "Dan", "TeamCyphers" ],
+{ "name": "ForwardTagRemoverBot", 
+ "description": " A Telegram Bot To Hide Forward Source"
+ "repository": "https://github.com/Artis7eeR/ForwardTagRemoverBot",
+ "logo": "https://telegra.ph/file/faacd4dd5b446769381f4.jpg",
+ "keywords": [ "bot","Artis7eeR", "telegram", "Rasak","TeamCyphers" ],
  "success_url": "https://telegram.dog/Anonforwabot",
  "env": {
  "BOT_TOKEN": 

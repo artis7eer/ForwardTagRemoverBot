@@ -22,9 +22,9 @@ def sendMedia(update,context):
  
 #Function to send file
 def sendFile(update,context): 
-	try:
+ try:
   	update.message.reply_document(update.message.document.file_id)
-  except Exception as e:
+ except Exception as e:
   	update.message.reply_text(e)
   	
 #Function to send image

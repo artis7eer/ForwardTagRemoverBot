@@ -19,9 +19,9 @@ from commands.commands import *
 from functions.functions import *
 from caption.setCaption import setCaption
 import os
-from config.Config import *
+from config import Config
 
-updater=Updater(TOKEN,use_context=True)
+updater=Updater(Config.TOKEN,use_context=True)
 dp=updater.dispatcher
 
 

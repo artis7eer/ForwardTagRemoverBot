@@ -41,5 +41,5 @@ parse_mode=ParseMode.MARKDOWN)
 def helpMessage(update,context):
  try:
    update.message.reply_text(HELP_TEXT,reply_markup=reply_markup,parse_mode=ParseMode.MARKDOWN)
-  except Exception as e:
+ except Exception as e:
   	update.message.reply_text(e)

@@ -1,24 +1,73 @@
-<h1> Forward Tag Remover Bot</h1>
+## Forward Tag Remover Bot 🤖
+>A Telegram Bot 🤖 to hide forward source
 
-<b>Variables:</b><br>
-  <b>BOT_TOKEN: Get This Value From <a href="https://telegram.dog/botfather">@Botfather</a></b>
+<br/>
 
-<b>Live Version Of Bot:</b><br>
- <b><a href="https://telegram.dog/Anonforwabot">@AnonForwaBot</a></b>
+### 🤗Express Your ❤️ With A Star ⭐️ To The Repo And Donation😇
 
-<h3>Very Easy Way(No Coding)</h3>
-<a href="https://heroku.com/deploy?template=https://github.com/Artis7eeR/forward-Tag-Remover-Bot">
-  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
-</a>
+### **[Bitcoin 💰](bitcoin:bc1qt4andmh0f269rplanc27mvesnm24qg4pl235m2)**|**[Ethereum💰](ethereum:0xF1e227d2ECAFe2725A5f4F03875191a2EfAC8dfe)**|**[Litecoin 💰](litecoin:ltc1q92qe8x3m9dwtpcj9y36txlm3yk5crmhz8ehf9e)**
 
-<h3>Easy Way (Coding)</h3>
-  <b><a href="https://youtu.be/swg6un2N4Fk">How To Deploy?</a></b><br>
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Artis7eeR/)
 
-<b>Telegram</b><br>
-<b>Join Us on <a href="https://telegram.dog/TeamCyphers">Telegram</a></b>
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+[![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
 
-<b>Known Bugs🐞🐞</b><br>
-<b>-You Cant Add Caption To Audio<br>
-   -But You Can Add Caption To Voice<br>
-  (Both Are Not Same in Telegram)
-</b>
+[![Open Source Love svg3](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/Artis7eeR/ForwardTagRemoverBot)
+
+[![GitHub forks](https://img.shields.io/github/forks/Artis7eeR/ForwardTagRemoverBot.svg?style=social&label=Fork)](https://GitHub.com/Artis7eeR/ForwardTagRemoverBot/network/)
+[![GitHub stars](https://img.shields.io/github/stars/Artis7eeR/ForwardTagRemoverBot.svg?style=social&label=Star)](https://github.com/Artis7eeR/ForwardTagRemoverBot/)
+
+
+[**[See Our Video Here To Know How To Build Bot With Coding](https://youtu.be/swg6un2N4Fk)**]🎞️
+
+<br/>
+
+### Features 🔥
+
+- [x] Hide **File Source** From Forwarded Files 😊
+- [x] Support For Adding Caption To Audio,Files,Video And Voice 😊
+
+<br/>
+
+### Installation (Locally) 💻
+
+>Make Sure You Have Python Installed On Your Device
+
+
+```
+ #Clone the repo👾
+ git clone https://github.com/Artis7eeR/ForwardTagRemoverBot.git
+ 
+ #Open The Folder📂
+ cd ForwardTagRemoverBot
+ 
+ #Install requirements🎯
+ pip install -r requirements.txt
+ 
+ #edit the bot token in config file📝
+ nano config.py
+ 
+ #Finally Run The Bot🤖
+ python bot.py
+ 
+```
+<br/>
+ 
+### Installation (Cloud) 🌩
+ 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Artis7eer/ForwardTagRemoverBot/tree/master)
+
+<br/>
+
+### Variables ⚙️
+ **BOT_TOKEN: Get this value from [BotFather](https://telegram.dog/Botfather)**
+
+### [Demo Bot](https://telegram.dog/Anonforwabot) 🔥
+
+<br/>
+
+## Bugs 🐞🐞
+
+[![chatroom icon](https://patrolavia.github.io/telegram-badge/chat.png)](https://telegram.dog/TeamCyphers)
+
+

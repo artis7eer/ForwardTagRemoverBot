@@ -5,9 +5,22 @@
 
 ### 🤗Express Your ❤️ With A Star ⭐️ To The Repo And Donation😇
 
- **[[Bitcoin 💰](https://en.cryptobadges.io/donate/bc1qt4andmh0f269rplanc27mvesnm24qg4pl235m2)]
- [[Ethereum💰](https://en.cryptobadges.io/donate/0xF1e227d2ECAFe2725A5f4F03875191a2EfAC8dfe)]
- [[Litecoin💰](https://en.cryptobadges.io/donate/ltc1q92qe8x3m9dwtpcj9y36txlm3yk5crmhz8ehf9e)]**
+
+```
+Bitcoin -> bc1qt4andmh0f269rplanc27mvesnm24qg4pl235m2
+
+Litecoin -> 
+ltc1q92qe8x3m9dwtpcj9y36txlm3yk5crmhz8ehf9e
+
+Ethereum -> 
+0xF1e227d2ECAFe2725A5f4F03875191a2EfAC8dfe
+
+Bitcoin Cash ->
+qzl5kjhxrw73rcvr6ska3wzksu2vqsa20s4nt0ty8m
+
+```
+
+<br/>
 
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Artis7eeR/)
 
@@ -71,5 +84,10 @@
 ## Bugs 🐞🐞
 
 [![chatroom icon](https://patrolavia.github.io/telegram-badge/chat.png)](https://telegram.dog/TeamCyphers)
+
+### Contributions are Invited 🙂
+
+**©[Artis7eeR](https://github.com/Artis7eeR)**
+
 
 

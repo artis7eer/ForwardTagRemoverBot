@@ -40,8 +40,8 @@ qzl5kjhxrw73rcvr6ska3wzksu2vqsa20s4nt0ty8m
 
 ### Features 🔥
 
-- [x] Hide **File Source** From Forwarded Files 😊
-- [x] Support For Adding Caption To Audio,Files,Video And Voice 😊
+- Hide **File Source** From Forwarded Files 😊
+- Support For **Adding Caption** To Audio,Files,Video And Voice 😊
 
 <br/>
 

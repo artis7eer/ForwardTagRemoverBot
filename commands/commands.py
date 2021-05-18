@@ -19,13 +19,13 @@ from config import Config
 #Inline Keyboard Button
 keyboard = [
 [
- InlineKeyboardButton("support group", url="https://t.me/disneyteamchat")
+ InlineKeyboardButton("😌support group😌", url="https://t.me/disneyteamchat")
 ],
 [
- InlineKeyboardButton("updates channel",url="https://t.me/disneygrou")
+ InlineKeyboardButton("👨‍🔧updates channel👨‍🔧",url="https://t.me/disneygrou")
 ] ,
 [
-InlineKeyboardButton("developer" ,url="https://t.me/doreamonfans3")
+InlineKeyboardButton("👨‍💻developer👨‍💻" ,url="https://t.me/doreamonfans3")
 ]
 ]
 #The Keyboard On Up👆

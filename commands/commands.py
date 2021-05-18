@@ -19,13 +19,15 @@ from config import Config
 #Inline Keyboard Button
 keyboard = [
 [
- InlineKeyboardButton("Source Code", url=Config.SOURCE)
+ InlineKeyboardButton("support group", url="https://t.me/disneyteamchat")
 ],
 [
- InlineKeyboardButton("How To Create A Bot Like Me",url="https://youtu.be/swg6un2N4Fk")
+ InlineKeyboardButton("updates channel",url="https://t.me/disneygrou")
+] ,
+[
+InlineKeyboardButton("developer" ,url="https://t.me/doreamonfans3")
 ]
 ]
-
 #The Keyboard On Up👆
 reply_markup = InlineKeyboardMarkup(keyboard)
 

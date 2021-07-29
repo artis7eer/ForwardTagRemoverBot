@@ -1,0 +1,14 @@
+ "name": "grammar bot", 
+ "description": " A Telegram English grammar bot",
+ "repository": "https://github.com/nminaya/grammar-nazi-bot.git",
+ "logo": "https://telegra.ph/file/4bed7b31ea7be122b2bc1.jpg",
+ "keywords": [ "bot","Artis7eeR", "telegram", "Rasak","TeamCyphers" ],
+ "success_url": "https://telegram.dog/grammarNz_Bot",
+ "env": {
+ "BOT_TOKEN": 
+{"description":"Get This Value from https://telegram.dog/BotFather",
+ "value": ""}
+},
+ "buildpacks":
+ [{ "url": "heroku/python" } ]
+ }

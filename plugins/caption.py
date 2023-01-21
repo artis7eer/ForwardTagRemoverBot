@@ -14,17 +14,8 @@
 # along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 
-import os
-from dotenv import load_dotenv
-
-load_dotenv()
-
-class Config:
-
-    BOT_TOKEN = os.environ.get("BOT_TOKEN", None)
-    SOURCE = "https://github.com/Artis7eeR/ForwardTagRemoverBot"
-    START_TEXT = """
-Hi [{}](tg://user?id={}) 
-I am A Forward Tag remover Bot.
-Send /help to know more ©[Abdul Razaq](https://github.com/artis7eer)"""
-    HELP_TEXT = "Forward Me A File,Video,Audio,Photo or Anything And \nI will Send You the File Back\n\n`How to Set Caption?`\nReply Caption to a File,Photo,Audio,Media"
+async def handleCaption(_, bot):
+    if _.message.reply_to_message is not None:
+        # Get Caption from message 
+        file_caption = _.message.text or ""
+        await _.message.reply_copy(_.effective_user.id,message_id = _.message.reply_to_message.message_id,caption = file_caption)

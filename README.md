@@ -1,12 +1,10 @@
-## Forward Tag Remover Bot 🤖
+# Forward Tag Remover Bot 🤖
+
 >A Telegram Bot 🤖 to hide forward source
 
-<br/>
+## 🤗Express Your ❤️ With A Star ⭐️ To The Repo And Donation😇
 
-### 🤗Express Your ❤️ With A Star ⭐️ To The Repo And Donation😇
-
-
-```
+```bash
 Bitcoin -> 
 bc1qt4andmh0f269rplanc27mvesnm24qg4pl235m2
 
@@ -21,8 +19,6 @@ qzl5kjhxrw73rcvr6ska3wzksu2vqsa20s4nt0ty8m
 
 ```
 
-<br/>
-
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Artis7eeR/)
 
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
@@ -33,24 +29,18 @@ qzl5kjhxrw73rcvr6ska3wzksu2vqsa20s4nt0ty8m
 [![GitHub forks](https://img.shields.io/github/forks/Artis7eeR/ForwardTagRemoverBot.svg?style=social&label=Fork)](https://GitHub.com/Artis7eeR/ForwardTagRemoverBot/network/)
 [![GitHub stars](https://img.shields.io/github/stars/Artis7eeR/ForwardTagRemoverBot.svg?style=social&label=Star)](https://github.com/Artis7eeR/ForwardTagRemoverBot/)
 
-
-[**[See Our Video Here To Know How To Build Bot With Coding](https://youtu.be/swg6un2N4Fk)**]🎞️
-
-<br/>
+[**[Tutorial Video](https://youtu.be/swg6un2N4Fk)**]🎞️
 
 ### Features 🔥
 
 - Hide **File Source** From Forwarded Files 😊
 - Support For **Adding Caption** To Audio,Files,Video And Voice 😊
 
-<br/>
-
 ### Installation (Locally) 💻
 
 >Make Sure You Have Python Installed On Your Device
 
-
-```
+```bash
  #Clone the repo👾
  git clone https://github.com/Artis7eeR/ForwardTagRemoverBot.git
  
@@ -60,27 +50,17 @@ qzl5kjhxrw73rcvr6ska3wzksu2vqsa20s4nt0ty8m
  #Install requirements🎯
  pip install -r requirements.txt
  
- #edit the bot token in config file📝
- nano config.py
+  #Add BOT_TOKEN to .env file
+ BOT_TOKEN=<YOUR-BOT-TOKEN>
  
  #Finally Run The Bot🤖
  python bot.py
  
 ```
-<br/>
- 
-### Installation (Cloud) 🌩
- 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Artis7eer/ForwardTagRemoverBot/tree/main)
-
-<br/>
 
 ### Variables ⚙️
+
  **BOT_TOKEN: Get this value from [BotFather](https://telegram.dog/Botfather)**
-
-### [Demo Bot](https://telegram.dog/Anonforwabot) 🔥
-
-<br/>
 
 ## Bugs 🐞🐞
 
@@ -89,7 +69,4 @@ qzl5kjhxrw73rcvr6ska3wzksu2vqsa20s4nt0ty8m
 
 ### Contributions are Invited 🙂
 
-**©[Artis7eeR](https://github.com/Artis7eeR)**
-
-
-
+**©[Abdul Razaq](https://github.com/Artis7eeR)**
